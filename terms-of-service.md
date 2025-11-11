@@ -27,7 +27,7 @@ You can manage or cancel your subscription in your store account settings.
 
 The App collects limited, non-personal data (such as a random device identifier and subscription status) to enable core functionality and manage subscriptions.  
 For full details, see the Privacy Policy at:  
-**https://yourusername.github.io/myapp-legal/privacy-policy**
+**[https://yourusername.github.io/myapp-legal/privacy-policy](https://birkspel.github.io/birkspel-legal/privacy-policy)**
 
 ---
 
