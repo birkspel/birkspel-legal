@@ -1,6 +1,6 @@
 # Terms of Service for Birk
 
-_Last updated: [Month Year]_
+_Last updated: November 2025_
 
 These Terms of Service (“Terms”) apply to your use of the mobile application **Birk** (“the App”), developed by an independent developer based in Sweden (“the Developer”).
 
@@ -27,7 +27,7 @@ You can manage or cancel your subscription in your store account settings.
 
 The App collects limited, non-personal data (such as a random device identifier and subscription status) to enable core functionality and manage subscriptions.  
 For full details, see the Privacy Policy at:  
-**[https://yourusername.github.io/myapp-legal/privacy-policy](https://birkspel.github.io/birkspel-legal/privacy-policy)**
+**[https://birkspel.github.io/birkspel-legal/privacy-policy.html](https://birkspel.github.io/birkspel-legal/privacy-policy)**
 
 ---
 
