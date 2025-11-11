@@ -65,7 +65,7 @@ The App is intended for general audiences and does not collect any personal data
 
 This Privacy Policy may be updated periodically.  
 The latest version will always be available at:  
-**[https://yourusername.github.io/myapp-legal/privacy-policy](https://birkspel.github.io/birkspel-legal/privacy-policy)**
+**[https://birkspel.github.io/birkspel-legal/privacy-policy](https://birkspel.github.io/birkspel-legal/privacy-policy)**
 
 ---
 
